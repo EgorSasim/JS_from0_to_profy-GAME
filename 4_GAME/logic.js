@@ -111,7 +111,6 @@ function getRandom(min, max){
     return Math.floor(Math.random() * (max - min) + min);
 }
 
-
 function getRandomColor(){
     let letters = '0123456789ABCDEF';
     let color = '#';
